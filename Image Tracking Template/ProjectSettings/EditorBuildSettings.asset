@@ -9,6 +9,8 @@ EditorBuildSettings:
     path: Assets/Scenes/Sandbox.unity
     guid: 99c9720ab356a0642a771bea13969a05
   m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 6838fb3533088ba4eaed0b88868a89e4,
+      type: 2}
     com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: a4f13a997bac59c4086699e540952580,
       type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 68dfa6cc7928564489342122e938ffe5,
